@@ -1,6 +1,4 @@
 
-## 🖥 Desafio técnico - Dev Sr/Tech Lead
-
 ## 📁 Instalação
 
 #### Para executar a aplicação sera necessário o Docker
